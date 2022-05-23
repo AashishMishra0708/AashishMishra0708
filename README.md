@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Mishra</h1>
-<h3 align="center">Compititive Coding, Web-Developer,MERN,UI/UX</h3>
+<h3 align="center">Competitive programming , Web-Developer,MERN,UI/UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishmishra0708&label=Profile%20views&color=0e75b6&style=flat" alt="aashishmishra0708" /> </p>
 
