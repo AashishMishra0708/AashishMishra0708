@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Aashish Mishra**
 
-- ⚡ Fun fact **I'm very lazy :)**
+- ⚡ Fun fact **I'm very lazy :), when i learn something i'll never lose what i learn... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
