@@ -11,11 +11,12 @@
 
 - 🌱 I’m currently learning **ReactNode, DP**
 
-- 💬 Ask me about **React,Wev-Development**
+- 💬 Ask me about **React,Web-Development**
 
 - 📫 How to reach me **Aashish Mishra**
 
-- ⚡ Fun fact **I'm very lazy :), when i learn something i'll never lose what i learn... **
+- ⚡ Fun fact **I'm very lazy, when i learn something i'll never lose what i learn ![image](https://user-images.githubusercontent.com/58128598/169880631-f9a2f117-a704-4fa3-92fe-69bf97a12b4c.png)
+... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
